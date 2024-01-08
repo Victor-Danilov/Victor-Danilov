@@ -4,4 +4,4 @@
 
 #### My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Danilov)](https://github.com/Victor-Danilov/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-delta-two-44.vercel.app/api?username=Victor-Danilov&theme=radical)](https://github.com/Victor-Danilov/github-readme-stats)
