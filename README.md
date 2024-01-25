@@ -33,35 +33,6 @@
 
 [![Victor's GitHub stats](https://github-readme-stats-beta-mauve-94.vercel.app/api?username=Victor-Danilov&show_icons=true&theme=transparent&hide=issues,stars)](https://github.com/Victor-Danilov/github-readme-stats)
 
-<div align="center">
-  <h2>My Contributions</h2>
-</div>
-
-<a href="https://github.com/ellisonleao">
-  <img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/ellisonleao">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/ellisonleao">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
-
-<a href="https://github.com/ellisonleao">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-
-<a href="https://github.com/ellisonleao">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-
-<a href="https://github.com/ellisonleao">
-  <img align="center" width="49%" src="./rss.svg" />
-</a>
-<a href="https://github.com/ellisonleao">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
 
 
 
