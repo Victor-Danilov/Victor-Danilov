@@ -4,6 +4,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=1F9718&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub" alt="Typing SVG" /></a>
 </h1>
 
+<p>
+  I'm a Computer Science student passionate about techology
+</p>
+<br />
+
+  ---
+
 ### 🧰 Language & Tools
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -15,6 +22,7 @@
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
 <br />
@@ -24,3 +32,42 @@
 ### 📊 Stats
 
 [![Victor's GitHub stats](https://github-readme-stats-beta-mauve-94.vercel.app/api?username=Victor-Danilov&show_icons=true&theme=transparent&hide=issues,stars)](https://github.com/Victor-Danilov/github-readme-stats)
+
+<div align="center">
+  <h2>My Contributions</h2>
+</div>
+
+<a href="https://github.com/ellisonleao">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/ellisonleao">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/ellisonleao">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+
+<a href="https://github.com/ellisonleao">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<a href="https://github.com/ellisonleao">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/ellisonleao">
+  <img align="center" width="49%" src="./rss.svg" />
+</a>
+<a href="https://github.com/ellisonleao">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
+
+
+
+
+
+
+
+
+
