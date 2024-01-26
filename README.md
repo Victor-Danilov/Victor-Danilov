@@ -1,9 +1,5 @@
-<a href="https://github.com/Victor-Danilov">
-  <img align="center" width="49%" src="./github-meterics.svg" />
-</a>
-<br/>
-
-### 🧰 Language & Tools
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+</br>
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
@@ -20,10 +16,6 @@
 <br />
 
   ---
-
-### 📊 Stats
-
-[![Victor's GitHub stats](https://github-readme-stats-beta-mauve-94.vercel.app/api?username=Victor-Danilov&show_icons=true&theme=transparent&hide=issues,stars)](https://github.com/Victor-Danilov/github-readme-stats)
 
 
 
