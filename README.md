@@ -1,9 +1,7 @@
-# Victor Danilov
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=1F9718&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub" alt="Typing SVG" /></a>
-</h1>
-
+<a href="https://github.com/Victor-Danilov">
+  <img align="center" width="49%" src="./github-meterics.svg" />
+</a>
+<br/>
 
 ### 🧰 Language & Tools
 
