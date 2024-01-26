@@ -25,7 +25,6 @@ jobs:
         with:
           filename: iso_calender.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: Victor-Danilov
           template: classic
           base: ""
@@ -40,7 +39,6 @@ jobs:
         with:
           filename: issue_pr_lang.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: Victor-Danilov
           template: classic
           base: ""
