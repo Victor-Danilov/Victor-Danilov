@@ -1,4 +1,4 @@
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/general.svg" alt="Metrics" width="400"></p>
 <p align="center"><img src="/achievements.svg" alt="Metrics" width="400"></p>
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
