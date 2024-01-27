@@ -5,6 +5,15 @@
 <a href="https://github.com/Victor-Danilov">
   <img align="center" width="49%" src="./achievements.svg" />
 </a>
+<a href="https://github.com/Victor-Danilov">
+  <img align="center" width="49%" src="./stars.svg" />
+</a>
+<a href="https://github.com/Victor-Danilov">
+  <img align="center" width="49%" src="./activity.svg" />
+</a>
+<a href="https://github.com/Victor-Danilov">
+  <img align="center" width="49%" src="./languages.svg" />
+</a>
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
