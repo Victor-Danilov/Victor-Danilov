@@ -35,10 +35,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
-          config_order: base.header, isocalendar, languages, notable, discussions, topics
-          output_action: gist
+          config_order: base.header, isocalendar, languages
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_recent_load: 400
@@ -46,4 +45,13 @@ jobs:
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
           plugin_languages_limit: 8
+          
+          plugin_stars: yes
+          plugin_stars_limit: 3
+
+          plugin_activity: yes
+          plugin_activity_limit: 3
+          plugin_activity_visibility: public
+          
+          
 
