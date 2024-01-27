@@ -1,13 +1,15 @@
 <a href="https://github.com/Victor-Danilov">
   <img align="center" width="49%" src="./general.svg" />
 </a>
-</br>
+
 <a href="https://github.com/Victor-Danilov">
   <img align="center" width="49%" src="./achievements.svg" />
 </a>
+
 <a href="https://github.com/Victor-Danilov">
   <img align="center" width="49%" src="./stars.svg" />
 </a>
+
 <a href="https://github.com/Victor-Danilov">
   <img align="center" width="49%" src="./activity.svg" />
 </a>
