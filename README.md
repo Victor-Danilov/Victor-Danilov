@@ -1,7 +1,7 @@
-
 <a href="https://github.com/Victor-Danilov">
   <img align="center" width="49%" src="./general.svg" />
 </a>
+</br>
 <a href="https://github.com/Victor-Danilov">
   <img align="center" width="49%" src="./achievements.svg" />
 </a>
