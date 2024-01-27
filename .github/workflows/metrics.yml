@@ -14,7 +14,17 @@ jobs:
       name: production
     permissions:
       contents: write
-    steps:       
+    steps:   
+      - name: 🦑 General
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: general.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header
+          plugin_isocalendar: yes
+          
+          
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -26,17 +36,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
-          
-      - name: 🦑 General
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: general.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header
-          base_indepth: yes
-          config_order: base.header, isocalendar, languages
-          plugin_isocalendar: yes
           
       - name: 🦑 Languages
         if: ${{ success() || failure() }}
