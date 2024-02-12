@@ -39,6 +39,15 @@ jobs:
           plugin_achievements_display: detailed
           plugin_fortune: yes
 
+      - name: 🦑 Topics
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: topics.svg
+          base: ""
+          plugin_topics: yes
+          plugin_topics_mode: icons
+
       - name: 🦑 Diff Hisotry
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
