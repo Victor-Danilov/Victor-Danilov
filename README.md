@@ -19,6 +19,10 @@
 </a>
 
 <a href="https://github.com/Victor-Danilov">
+  <img align="center" width="49%" src="./diff_history.svg" />
+</a>
+
+<a href="https://github.com/Victor-Danilov">
   <img align="center" width="49%" src="./star_list.svg" />
 </a>
 
