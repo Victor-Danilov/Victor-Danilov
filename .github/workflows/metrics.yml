@@ -103,8 +103,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 3
+          plugin_activity_limit: 5
           plugin_activity_visibility: public
+          plugin_activity_ignored: Victor-Danilov
 
       - name: 🦑 StarList
         if: ${{ success() || failure() }}
