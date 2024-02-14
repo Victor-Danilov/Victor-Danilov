@@ -19,7 +19,11 @@
 </a>
 
 <a href="https://github.com/Victor-Danilov">
-  <img align="center" width="49%" src="./languages.svg" />
+  <img align="center" width="49%" src="./recent_languages.svg" />
+</a>
+
+<a href="https://github.com/Victor-Danilov">
+  <img align="center" width="49%" src="./most_languages.svg" />
 </a>
 
 <a href="https://github.com/Victor-Danilov">
