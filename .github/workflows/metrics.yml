@@ -58,15 +58,29 @@ jobs:
           base: ""
           plugin_lines: yes
       
-      - name: 🦑 Languages
+      - name: 🦑 most_Languages
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: languages.svg
+          filename: most_languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
           commits_authoring: Victor Danilov, Victor-Daniloc, victordanilov@outlook.it
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 4
+          
+      - name: 🦑 recent_Languages
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: recent_languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          commits_authoring: Victor Danilov, Victor-Daniloc, victordanilov@outlook.it
+          plugin_languages_sections: recently-used
+          plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
