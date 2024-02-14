@@ -15,11 +15,11 @@
 </a>
 
 <a href="https://github.com/Victor-Danilov">
-  <img align="center" width="49%" src="./topics.svg" />
+  <img align="center" width="49%" src="./recent_languages.svg" />
 </a>
 
 <a href="https://github.com/Victor-Danilov">
-  <img align="center" width="49%" src="./recent_languages.svg" />
+  <img align="center" width="49%" src="./topics.svg" />
 </a>
 
 <a href="https://github.com/Victor-Danilov">
