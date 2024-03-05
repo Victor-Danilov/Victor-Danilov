@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://github.com/Victor-Danilov">
-  <img align="center" width="49%" src="./metrics.plugin.licenses.ratio.svg" />
+  <img align="center" width="49%" src="./metrics.plugin.licenses.svg" />
 </a>
 
 <a href="https://github.com/Victor-Danilov">
