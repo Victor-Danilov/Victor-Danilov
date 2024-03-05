@@ -15,24 +15,20 @@
 </a>
 
 <a href="https://github.com/Victor-Danilov">
-  <img align="center" width="49%" src="./topics.svg" />
-</a>
-
-
-<a href="https://github.com/Victor-Danilov">
   <img align="center" width="49%" src="./most_languages.svg" />
 </a>
 
-
-
 <a href="https://github.com/Victor-Danilov">
-  <img align="center" width="49%" src="./music.svg" />
+  <img align="center" width="49%" src="./topics.svg" />
 </a>
 
 <a href="https://github.com/Victor-Danilov">
   <img align="center" width="49%" src="./metrics.plugin.licenses.ratio.svg" />
 </a>
 
+<a href="https://github.com/Victor-Danilov">
+  <img align="center" width="49%" src="./music.svg" />
+</a>
 
 
 <!--
