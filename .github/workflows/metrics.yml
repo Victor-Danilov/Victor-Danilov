@@ -106,7 +106,7 @@ jobs:
           template: repository
           repo: metrics
           plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
+          plugin_licenses_ratio: yes
 
       - name: 🦑 Music
         if: ${{ success() || failure() }}
