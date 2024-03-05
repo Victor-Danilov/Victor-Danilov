@@ -96,17 +96,6 @@ jobs:
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 0
           
-      - name: 🦑 Licenses
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.licenses.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_licenses: yes
-          plugin_licenses_ratio: yes
 
       - name: 🦑 Music
         if: ${{ success() || failure() }}
