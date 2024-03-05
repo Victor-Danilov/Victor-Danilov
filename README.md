@@ -22,14 +22,11 @@
   <img align="center" width="49%" src="./topics.svg" />
 </a>
 
-<a href="https://github.com/Victor-Danilov">
-  <img align="center" width="49%" src="./metrics.plugin.licenses.svg" />
-</a>
-
+<!--
 <a href="https://github.com/Victor-Danilov">
   <img align="center" width="49%" src="./music.svg" />
 </a>
-
+-->
 
 <!--
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
