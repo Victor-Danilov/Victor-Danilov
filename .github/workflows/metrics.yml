@@ -100,15 +100,13 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-            filename: metrics.plugin.licenses.ratio.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: ""
-            template: repository
-            repo: metrics
-            plugin_licenses: yes
-            plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-            plugin_licenses_legal: no
-            plugin_licenses_ratio: yes
+          filename: metrics.plugin.licenses.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          template: repository
+          repo: metrics
+          plugin_licenses: yes
+          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
 
       - name: 🦑 Music
         if: ${{ success() || failure() }}
